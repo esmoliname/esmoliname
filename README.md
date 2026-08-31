@@ -1,12 +1,10 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=esmoliname;Esteban+Molina+Meza;Full+Stack+%26+AI+Architect" alt="Typing Title" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050811,40:0d1117,100:1c1430&height=180&section=header&text=esmoliname&fontSize=42&fontColor=00f2fe&fontAlignY=36&desc=Esteban%20Molina%20Meza%20%E2%80%A2%20Full%20Stack%20%26%20AI%20Architect&descFontSize=15&descColor=a855f7&descAlignY=58" width="100%" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: -15px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=%24+architect+%3E+build+%3E+scale+%3E+automate;Multi-Agent+Systems+%7C+Cloud+Architecture;Building+scalable+%26+autonomous+AI+solutions" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%24+architect+%3E+build+%3E+scale+%3E+automate;Multi-Agent+Systems+%7C+Cloud+Architecture;Building+scalable+%26+autonomous+AI+solutions" alt="Typing Subtitle" />
   </a>
 </p>
 
