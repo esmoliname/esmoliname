@@ -68,43 +68,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmoliname&theme=dark&background=0d1117&border=1e293b&ring=00f2fe&fire=a855f7&currStreakNum=ffffff&sideNums=a855f7&currStreakLabel=00f2fe&dates=94a3b8&hide_border=false" height="150" />
 </p>
 
-<br/>
+---
+
+<h3 align="center"><code>$ ./PROJECTS</code></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%24%20.%2FPROJECTS-0d1117?style=for-the-badge&logo=codeproject&logoColor=00f2fe&labelColor=0d1117" />
+  <a href="https://github.com/esmoliname/cv-agent-system"><img src="https://img.shields.io/badge/CV--AGENT--SYSTEM-0d1117?style=flat-square&logo=typescript&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="CV Agent" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/esmoliname/signal-app"><img src="https://img.shields.io/badge/SIGNAL--APP-0d1117?style=flat-square&logo=fastapi&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="Signal App" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/AUDITOR--SEGURIDAD-0d1117?style=flat-square&logo=python&logoColor=a855f7&labelColor=0d1117&color=a855f7" alt="Auditor Seguridad" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/FASHION--MNIST-0d1117?style=flat-square&logo=tensorflow&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="Fashion MNIST" /></a>
 </p>
+
+---
+
+<h3 align="center"><code>$ ./CONNECT</code></h3>
 
 <p align="center">
-  <a href="https://github.com/esmoliname/cv-agent-system"><img src="https://img.shields.io/badge/🤖_CV--AGENT--SYSTEM-0d1117?style=flat-square&logo=typescript&logoColor=00f2fe&labelColor=0d1117" /></a>
-  &nbsp;
-  <a href="https://github.com/esmoliname/signal-app"><img src="https://img.shields.io/badge/📡_SIGNAL--APP-0d1117?style=flat-square&logo=fastapi&logoColor=00f2fe&labelColor=0d1117" /></a>
-  &nbsp;
-  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/🛡️_AUDITOR--SEGURIDAD-0d1117?style=flat-square&logo=python&logoColor=a855f7&labelColor=0d1117" /></a>
-  &nbsp;
-  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/👗_FASHION--MNIST-0d1117?style=flat-square&logo=tensorflow&logoColor=00f2fe&labelColor=0d1117" /></a>
+  <a href="https://github.com/esmoliname" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/esteban-molina-meza-63b6072b6" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/esteban__molina_" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=flat-square&logo=instagram&logoColor=a855f7&labelColor=0d1117&color=a855f7" alt="Instagram" /></a>
 </p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%24%20.%2FCONNECT-0d1117?style=for-the-badge&logo=socketdotio&logoColor=00f2fe&labelColor=0d1117" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/esmoliname" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/esteban-molina-meza-63b6072b6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/esteban__molina_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=a855f7&labelColor=0d1117" />
-  </a>
-</p>
-
-<br/>
 
 <p align="center">
   <code>esmoliname@github:~$ system.ready --verbose ✔</code>
