@@ -4,10 +4,6 @@
 
 <div align="center">
 
-# 💻 **esmoliname**
-### **Esteban Molina Meza**
-*Full Stack Engineer & AI Agent Architect*
-
 <!-- MINI-TAGS -->
 <p>
   <code>ROLE: Full Stack & AI Architect</code> &nbsp; | &nbsp;
@@ -44,8 +40,8 @@ Me encanta construir soluciones escalables y automatizar procesos complejos con 
 ## 📊 `$ ./GITHUB-TELEMETRY`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmoliname&theme=dark&background=0d1117&border=1e293b&ring=00f2fe&fire=a855f7&currStreakNum=ffffff&sideNums=a855f7&currStreakLabel=00f2fe&dates=94a3b8&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=esmoliname&show_icons=true&theme=dark&bg_color=0d1117&border_color=1e293b&title_color=00f2fe&icon_color=a855f7&text_color=e2e8f0&rank_icon=github&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmoliname&theme=dark&background=0d1117&border=1e293b&ring=00f2fe&fire=a855f7&currStreakNum=ffffff&sideNums=a855f7&currStreakLabel=00f2fe&dates=94a3b8&hide_border=false" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmoliname&layout=compact&theme=dark&bg_color=0d1117&border_color=1e293b&title_color=00f2fe&text_color=e2e8f0&hide_border=false" height="155" />
 </p>
 
 ---
@@ -81,9 +77,17 @@ Clasificador de imágenes con TensorFlow y CI bajo estándares OWASP.
 ## 📡 `$ ./CONNECT-OPEN-CHANNEL`
 
 <p align="center">
-  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=0d1117" /></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=a855f7&labelColor=0d1117" /></a>
+  <a href="https://github.com/esmoliname" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/esteban-molina-meza-63b6072b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/esteban__molina_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=a855f7&labelColor=0d1117" />
+  </a>
 </p>
 
 ---
