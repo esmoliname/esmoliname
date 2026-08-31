@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,50:0d1117,100:161426&height=150&section=header&text=esmoliname&fontSize=44&fontColor=00f2fe&fontAlignY=45&desc=Esteban%20Molina%20Meza%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%20Agent%20Architect%20%E2%80%A2%20Cloud&descFontSize=15&descColor=a855f7&descAlignY=70" width="100%" />
+</p>
+
 <div align="center">
 
 # 💻 **esmoliname**
@@ -40,13 +44,8 @@ Me encanta construir soluciones escalables y automatizar procesos complejos con 
 ## 📊 `$ ./GITHUB-TELEMETRY`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esmoliname&bg_color=0d1117&color=00f2fe&line=a855f7&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmoliname&hide_border=true&background=0d1117&ring=00f2fe&fire=a855f7&currStreakNum=ffffff&currStreakLabel=00f2fe&sideLabels=ffffff&stroke=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmoliname&theme=dark&background=0d1117&border=1e293b&ring=00f2fe&fire=a855f7&currStreakNum=ffffff&sideNums=a855f7&currStreakLabel=00f2fe&dates=94a3b8&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esmoliname&show_icons=true&theme=dark&bg_color=0d1117&border_color=1e293b&title_color=00f2fe&icon_color=a855f7&text_color=e2e8f0&rank_icon=github&hide_border=false" height="150" />
 </p>
 
 ---
@@ -82,9 +81,9 @@ Clasificador de imágenes con TensorFlow y CI bajo estándares OWASP.
 ## 📡 `$ ./CONNECT-OPEN-CHANNEL`
 
 <p align="center">
-  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=0d1117" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f2fe&labelColor=0d1117" /></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=a855f7&labelColor=0d1117" /></a>
 </p>
 
 ---
