@@ -73,10 +73,12 @@
 <h3 align="center"><code>$ ./PROJECTS</code></h3>
 
 <p align="center">
-  <a href="https://github.com/esmoliname/cv-agent-system"><img src="https://img.shields.io/badge/CV--AGENT--SYSTEM-0d1117?style=flat-square&logo=typescript&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="CV Agent" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/esmoliname/signal-app"><img src="https://img.shields.io/badge/SIGNAL--APP-0d1117?style=flat-square&logo=fastapi&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="Signal App" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/AUDITOR--SEGURIDAD-0d1117?style=flat-square&logo=python&logoColor=a855f7&labelColor=0d1117&color=a855f7" alt="Auditor Seguridad" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/FASHION--MNIST-0d1117?style=flat-square&logo=tensorflow&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="Fashion MNIST" /></a>
+  <a href="https://github.com/esmoliname/cv-agent-system" target="_blank"><img src="https://img.shields.io/badge/🤖_CV--AGENT--SYSTEM-0d1117?style=flat-square&logo=typescript&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="CV Agent" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/esmoliname/signal-app" target="_blank"><img src="https://img.shields.io/badge/📡_SIGNAL--APP-0d1117?style=flat-square&logo=fastapi&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="Signal App" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/esmoliname/agente-auditor-seguridad" target="_blank"><img src="https://img.shields.io/badge/🛡️_AUDITOR--SEGURIDAD-0d1117?style=flat-square&logo=python&logoColor=a855f7&labelColor=0d1117&color=a855f7" alt="Auditor Seguridad" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/esmoliname/clasificador-fashion-mnist" target="_blank"><img src="https://img.shields.io/badge/👗_FASHION--MNIST-0d1117?style=flat-square&logo=tensorflow&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" alt="Fashion MNIST" /></a>
 </p>
 
 ---
