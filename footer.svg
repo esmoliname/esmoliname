@@ -1,0 +1,16 @@
+<svg fill="none" viewBox="0 0 800 24" width="100%" height="24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neonBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0" />
+      <stop offset="20%" stop-color="#00f2fe" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1" />
+      <stop offset="80%" stop-color="#a855f7" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="3" />
+    </filter>
+  </defs>
+  <rect x="40" y="8" width="720" height="8" rx="4" fill="url(#neonBeam)" filter="url(#glow)" />
+  <rect x="40" y="10" width="720" height="4" rx="2" fill="url(#neonBeam)" />
+</svg>

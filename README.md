@@ -94,3 +94,7 @@
 <p align="center">
   <code>esmoliname@github:~$ system.ready --verbose ✔</code>
 </p>
+
+<p align="center">
+  <img src="./footer.svg" width="100%" alt="Footer Glow" />
+</p>
