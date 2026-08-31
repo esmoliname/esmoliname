@@ -43,6 +43,10 @@
 ### <p align="center">`$ ./GITHUB -TELEMETRY`</p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esmoliname&bg_color=0d1117&color=00f2fe&line=a855f7&point=ffffff&area=true&hide_border=true&border_radius=8" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/esmoliname?style=flat-square&label=FOLLOWERS&color=00f2fe&labelColor=0d1117" />
   <img src="https://img.shields.io/github/stars/esmoliname?style=flat-square&label=TOTAL%20STARS&color=a855f7&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=esmoliname&label=PROFILE%20VIEWS&style=flat-square&color=00f2fe&base=0d1117" />
