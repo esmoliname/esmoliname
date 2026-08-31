@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050811,40:0d1117,100:1c1430&height=180&section=header&text=esmoliname&fontSize=42&fontColor=00f2fe&fontAlignY=36&desc=Esteban%20Molina%20Meza%20%E2%80%A2%20Full%20Stack%20%26%20AI%20Architect&descFontSize=15&descColor=a855f7&descAlignY=58" width="100%" />
+  <img src="./header.svg" width="100%" alt="Header" />
 </p>
 
-<p align="center" style="margin-top: -15px;">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%24+architect+%3E+build+%3E+scale+%3E+automate;Multi-Agent+Systems+%7C+Cloud+Architecture;Building+scalable+%26+autonomous+AI+solutions" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=%24+architect+%3E+build+%3E+automate;Multi-Agent+Systems+%7C+TypeScript+%7C+AI;Building+scalable+%26+resilient+software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/MODE-BUILDING-0d1117?style=flat-square&logo=codewars&logoColor=a855f7&labelColor=0d1117&color=a855f7" />
 </p>
 
----
+<br/>
 
-<h3 align="center"><code>$ ./WHOAMI</code></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%24%20.%2FWHOAMI-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=00f2fe&labelColor=0d1117" />
+</p>
 
 <p align="center">
   Soy Esteban Molina, Ingeniero Full Stack especializado en <b>Inteligencia Artificial</b>, <b>TypeScript</b> y <b>Sistemas Multi-Agente</b>.<br/>
@@ -33,18 +35,22 @@
   <img src="https://img.shields.io/badge/FOCUS-AI_Agents_%7C_Cloud_%7C_TypeScript-0d1117?style=flat-square&color=00f2fe" />
 </p>
 
----
+<br/>
 
-<h3 align="center"><code>$ ./STACK -LOADED</code></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%24%20.%2FSTACK-0d1117?style=for-the-badge&logo=buffer&logoColor=00f2fe&labelColor=0d1117" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,vue,fastapi,laravel&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,sqlite,postgres,tailwind,figma&theme=dark" />
 </p>
 
----
+<br/>
 
-<h3 align="center"><code>$ ./GITHUB -TELEMETRY</code></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%24%20.%2FTELEMETRY-0d1117?style=for-the-badge&logo=serverfault&logoColor=00f2fe&labelColor=0d1117" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/esmoliname?style=flat-square&label=FOLLOWERS&color=00f2fe&labelColor=0d1117" />
@@ -58,31 +64,31 @@
   <img src="https://ghchart.rshah.org/00f2fe/esmoliname" alt="GitHub Contribution Grid" width="95%" />
 </p>
 
-<br/>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmoliname&theme=dark&background=0d1117&border=1e293b&ring=00f2fe&fire=a855f7&currStreakNum=ffffff&sideNums=a855f7&currStreakLabel=00f2fe&dates=94a3b8&hide_border=false" height="150" />
 </p>
 
----
-
-<h3 align="center"><code>$ ./PROJECTS -FEATURED</code></h3>
+<br/>
 
 <p align="center">
-  <a href="https://github.com/esmoliname/cv-agent-system"><img src="https://img.shields.io/badge/🤖_CV--AGENT--SYSTEM-0d1117?style=for-the-badge&logo=typescript&logoColor=00f2fe&labelColor=0d1117" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/esmoliname/signal-app"><img src="https://img.shields.io/badge/📡_SIGNAL--APP-0d1117?style=for-the-badge&logo=fastapi&logoColor=00f2fe&labelColor=0d1117" /></a>
+  <img src="https://img.shields.io/badge/%24%20.%2FPROJECTS-0d1117?style=for-the-badge&logo=codeproject&logoColor=00f2fe&labelColor=0d1117" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/🛡️_AUDITOR--SEGURIDAD-0d1117?style=for-the-badge&logo=python&logoColor=a855f7&labelColor=0d1117" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/👗_FASHION--MNIST-0d1117?style=for-the-badge&logo=tensorflow&logoColor=a855f7&labelColor=0d1117" /></a>
+  <a href="https://github.com/esmoliname/cv-agent-system"><img src="https://img.shields.io/badge/🤖_CV--AGENT--SYSTEM-0d1117?style=flat-square&logo=typescript&logoColor=00f2fe&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://github.com/esmoliname/signal-app"><img src="https://img.shields.io/badge/📡_SIGNAL--APP-0d1117?style=flat-square&logo=fastapi&logoColor=00f2fe&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/🛡️_AUDITOR--SEGURIDAD-0d1117?style=flat-square&logo=python&logoColor=a855f7&labelColor=0d1117" /></a>
+  &nbsp;
+  <a href="https://github.com/esmoliname"><img src="https://img.shields.io/badge/👗_FASHION--MNIST-0d1117?style=flat-square&logo=tensorflow&logoColor=00f2fe&labelColor=0d1117" /></a>
 </p>
 
----
+<br/>
 
-<h3 align="center"><code>$ ./CONNECT -OPEN CHANNEL</code></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%24%20.%2FCONNECT-0d1117?style=for-the-badge&logo=socketdotio&logoColor=00f2fe&labelColor=0d1117" />
+</p>
 
 <p align="center">
   <a href="https://github.com/esmoliname" target="_blank">
@@ -97,6 +103,8 @@
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=a855f7&labelColor=0d1117" />
   </a>
 </p>
+
+<br/>
 
 <p align="center">
   <code>esmoliname@github:~$ system.ready --verbose ✔</code>
