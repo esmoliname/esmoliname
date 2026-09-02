@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-0d1117?style=flat-square&logo=statuspage&logoColor=10b981&labelColor=0d1117&color=10b981" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-161b22?style=flat-square&logo=statuspage&logoColor=10b981&labelColor=161b22" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-COSTA_RICA-0d1117?style=flat-square&logo=googlemaps&logoColor=00f2fe&labelColor=0d1117&color=00f2fe" />
+  <img src="https://img.shields.io/badge/LOCATION-COSTA_RICA-161b22?style=flat-square&logo=googlemaps&logoColor=00f2fe&labelColor=161b22" alt="Location" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MODE-BUILDING-0d1117?style=flat-square&logo=codewars&logoColor=a855f7&labelColor=0d1117&color=a855f7" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING-161b22?style=flat-square&logo=codewars&logoColor=a855f7&labelColor=161b22" alt="Mode" />
 </p>
 
 <br/>
@@ -28,11 +28,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/USER-esmoliname-0d1117?style=flat-square&color=00f2fe" />
+  <img src="https://img.shields.io/badge/USER-esmoliname-161b22?style=flat-square&logo=github&logoColor=00f2fe&labelColor=161b22" alt="User" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ROLE-Full_Stack_Engineer-0d1117?style=flat-square&color=a855f7" />
+  <img src="https://img.shields.io/badge/ROLE-Full_Stack_Engineer-161b22?style=flat-square&logo=visualstudiocode&logoColor=a855f7&labelColor=161b22" alt="Role" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-AI_Agents_%7C_Cloud_%7C_TypeScript-0d1117?style=flat-square&color=00f2fe" />
+  <img src="https://img.shields.io/badge/FOCUS-AI_Agents_%7C_Cloud_%7C_TypeScript-161b22?style=flat-square&logo=lightning&logoColor=00f2fe&labelColor=161b22" alt="Focus" />
 </p>
 
 <br/>
@@ -53,11 +53,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/esmoliname?style=flat-square&label=FOLLOWERS&color=00f2fe&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/esmoliname?style=flat-square&label=FOLLOWERS&color=161b22&labelColor=161b22&logo=github&logoColor=00f2fe" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/esmoliname?style=flat-square&label=TOTAL%20STARS&color=a855f7&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/esmoliname?style=flat-square&label=TOTAL%20STARS&color=161b22&labelColor=161b22&logo=reverbnation&logoColor=a855f7" alt="Stars" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=esmoliname&label=PROFILE%20VIEWS&style=flat-square&color=00f2fe" />
+  <img src="https://komarev.com/ghpvc/?username=esmoliname&label=PROFILE%20VIEWS&style=flat-square&color=161b22&labelColor=161b22" alt="Views" />
 </p>
 
 <p align="center">
