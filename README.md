@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Developer Identity Card" />
+  <img src="./header.svg" width="100%" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=%24+architect+%3E+build+%3E+automate;Multi-Agent+Systems+%7C+TypeScript+%7C+AI;Building+scalable+%26+resilient+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=%24+architect+%3E+build+%3E+automate;Multi-Agent+Systems+%7C+TypeScript+%7C+AI;Building+scalable+%26+resilient+software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,20 +34,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-AI_Agents_%7C_Cloud_%7C_TypeScript-161b22?style=flat-square&logo=lightning&logoColor=00f2fe&labelColor=161b22" alt="Focus" />
 </p>
-
-<div align="center">
-
-```json
-{
-  "system": "esmoliname-core",
-  "role": "Full Stack Engineer & AI Agent Architect",
-  "engine": ["TypeScript", "Python", "FastAPI"],
-  "infrastructure": ["AWS", "Docker", "CI/CD Automations"],
-  "specialization": "Autonomous Multi-Agent Networks"
-}
-```
-
-</div>
 
 <br/>
 
